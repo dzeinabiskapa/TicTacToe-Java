@@ -1,4 +1,4 @@
-# TicTacToe-Game-Java
+# TicTacToe Java
 
 A graphical Tic-Tac-Toe game implemented in Java using Swing for the GUI. This project allows two players to play against each other, keeps track of turns, and detects wins and draws. 
 The game includes prompts to enter player names and options to replay or change players after a game ends.
