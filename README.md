@@ -14,6 +14,7 @@ The game includes prompts to enter player names and options to replay or change 
 ### Prerequisites
 
 - Java Development Kit (JDK) 8 or higher.
+- An IDE such as Visual Studio Code, IntelliJ IDEA, or Eclipse.
 
 ### Installation
 
@@ -23,23 +24,7 @@ The game includes prompts to enter player names and options to replay or change 
     git clone https://github.com/your-username/TicTacToe-Game-Java.git
     ```
 
-2. Navigate to the project directory:
-
-    ```sh
-    cd TicTacToe-Game-Java
-    ```
-
-3. Compile the Java files:
-
-    ```sh
-    javac Main.java
-    ```
-
-4. Run the application:
-
-    ```sh
-    java Main
-    ```
+2. Open the project in your preferred Java IDE.
 
 ## How to Play
 
